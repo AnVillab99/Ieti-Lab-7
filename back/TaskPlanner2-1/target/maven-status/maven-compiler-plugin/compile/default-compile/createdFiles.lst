@@ -1,0 +1,10 @@
+edu\escuelaing\ieti\services\TaskService.class
+edu\escuelaing\ieti\Controller\TaskController.class
+edu\escuelaing\ieti\Controller\UserController.class
+edu\escuelaing\ieti\models\Task.class
+edu\escuelaing\ieti\services\impl\UserServiceImpl.class
+edu\escuelaing\ieti\services\UserService.class
+edu\escuelaing\ieti\services\impl\TaskServiceImpl.class
+edu\escuelaing\ieti\Ieti21Application.class
+edu\escuelaing\ieti\Persistance\TaskPlannerPersistence.class
+edu\escuelaing\ieti\models\User.class
