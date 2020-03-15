@@ -7,9 +7,13 @@ Necesita para local:
 Usuario: test@mail.com
 pass: admin
 
-Heroku:
-> https://hidden-beyond-20196.herokuapp.com
-mismas credenciales
+1. En la carpeta de back
+>  mvn spring-boot:run
+
+<br>
+
+2. En la carpeta de front
+>npm start
 
 fire base:
 > https://taks-planner-app-1e6ee.firebaseapp.com
